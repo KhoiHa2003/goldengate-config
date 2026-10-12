@@ -1,0 +1,17 @@
+{
+  "native_splash_status": 1,
+  "inter_t_splash_status": 1,
+  "native_language_status": 1,
+  "native_sm_language_status": 1,
+  "native_intro_status": 1,
+  "native_intro_full_status": 1,
+  "native_full_status": 1,
+  "inter_getstart_status": 1,
+  "inter_permission_status": 1,
+  "native_home_collapse_status": 1,
+  "inter_home_function_status": 1,
+  "open_resume_status": 0,
+  "time_show_native": 4000,
+  "time_show_ads": 30000,
+  "is_show_ads": 0
+}
